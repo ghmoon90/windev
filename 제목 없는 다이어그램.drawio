@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JH63SUFQro5sLmHzi_vF" name="AFCS">
-    <mxGraphModel dx="1619" dy="481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3249" dy="1201" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,6 +980,27 @@
         </mxCell>
         <mxCell id="zdZsH_9SinYMN-ZMUiDB-42" value="Mach Hold" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-128.25" y="1323" width="143.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdZsH_9SinYMN-ZMUiDB-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-174" y="1527" as="sourcePoint" />
+            <mxPoint x="-110" y="1469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdZsH_9SinYMN-ZMUiDB-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-233" y="1452" as="sourcePoint" />
+            <mxPoint x="68" y="1414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdZsH_9SinYMN-ZMUiDB-46" value="Desired Path" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-151.5" y="1413" width="64" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="zdZsH_9SinYMN-ZMUiDB-48" value="Current Path" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-157.5" y="1512" width="64" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="zdZsH_9SinYMN-ZMUiDB-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-do-vetor-isolado-contorno-avi%C3%A3o-de-avia%C3%A7%C3%A3o-imagem-isolada-dispon%C3%ADvel-em-formato-eps-vetorial-totalmente-edit%C3%A1vel-215493529.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1054" y="1379" width="482" height="482" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
