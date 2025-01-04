@@ -757,7 +757,7 @@
         <mxCell id="f9erdAm36Rm7T6z9GK5K-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="f9erdAm36Rm7T6z9GK5K-63" target="f9erdAm36Rm7T6z9GK5K-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9erdAm36Rm7T6z9GK5K-63" value="&amp;nbsp; &amp;nbsp;K&lt;sub&gt;q&lt;/sub&gt;" style="triangle;whiteSpace=wrap;html=1;direction=west;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="f9erdAm36Rm7T6z9GK5K-63" value="&amp;nbsp; &amp;nbsp;K&lt;sub&gt;p&lt;/sub&gt;" style="triangle;whiteSpace=wrap;html=1;direction=west;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-11" y="907" width="41" height="48" as="geometry" />
         </mxCell>
         <mxCell id="f9erdAm36Rm7T6z9GK5K-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="f9erdAm36Rm7T6z9GK5K-65" target="f9erdAm36Rm7T6z9GK5K-61">
@@ -775,13 +775,13 @@
         <mxCell id="f9erdAm36Rm7T6z9GK5K-67" value="p" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="208" y="899" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9erdAm36Rm7T6z9GK5K-68" value="&lt;span style=&quot;font-style: normal;&quot;&gt;δe&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="f9erdAm36Rm7T6z9GK5K-68" value="&lt;span style=&quot;font-style: normal;&quot;&gt;δa&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="109" y="854" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f9erdAm36Rm7T6z9GK5K-69" value="G&lt;sub&gt;&lt;span&gt;δa/δp&lt;/span&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="65" y="832" width="61" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="f9erdAm36Rm7T6z9GK5K-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;i&gt;δq&lt;/i&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="f9erdAm36Rm7T6z9GK5K-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;i&gt;δp&lt;/i&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-67.50222222222229" y="857" width="39" height="36" as="geometry" />
         </mxCell>
         <mxCell id="f9erdAm36Rm7T6z9GK5K-71" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-style: italic;&quot;&gt;θ&lt;/span&gt;&lt;sub&gt;ref&lt;/sub&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
