@@ -1612,6 +1612,15 @@
         <mxCell id="4Xjc2106ra13u_vmoknp-4" value="$$C_{b}^{w} =C_{b}^{s}C_{s}^{w}= \begin{bmatrix} c_{\beta}c_{\alpha} &amp;amp; s_{\beta} &amp;amp; c_{\beta}s_{\alpha} \\ -s_{\beta}c_{\alpha} &amp;amp; c_{\beta} &amp;amp; -s_{\beta}s_{\alpha} \\-s_{\alpha} &amp;amp; 0 &amp;amp; c_{\alpha}\end{bmatrix}$$&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$C_{w}^{b} = \left( C_{b}^{w}\right)^{-1} = \begin{bmatrix} c_{\beta}c_{\alpha} &amp;amp; -s_{\beta}c_{\alpha} &amp;amp; -s_{\alpha} &amp;nbsp;\\ s_{\beta}&amp;amp; c_{\beta} &amp;amp; 0\\ c_{\beta}s_{\alpha}&amp;amp; &amp;nbsp;-s_{\beta}s_{\alpha}&amp;amp; c_{\alpha}\end{bmatrix} $$&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1247" y="-1601" width="364" height="186" as="geometry" />
         </mxCell>
+        <mxCell id="4Xjc2106ra13u_vmoknp-5" value="&amp;nbsp;$$\begin{pmatrix}U\\V\\W \end{pmatrix} =&amp;nbsp;\begin{pmatrix}V_T c_{\beta}c_{\alpha}\\V_T s_{\beta}\\V_T s_{\alpha}c_{\beta} \end{pmatrix} $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1118" y="-1365" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Xjc2106ra13u_vmoknp-6" value="$$\tan\alpha = \dfrac{W}{U}$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\sin\beta=\dfrac{V}{V_T}$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1137" y="-1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Xjc2106ra13u_vmoknp-7" value="$$C_L =C_L&amp;nbsp;&amp;nbsp;(\alpha,\beta,M)&amp;nbsp;$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$ C_D = C_D &amp;nbsp;(\alpha,\beta,M) $$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$ C_Y = C_Y &amp;nbsp;(\alpha,\beta,M) $$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$ C_l = C_l (\alpha,\beta,M) + C_{l_{p}} \dfrac{p}{2bV_T} + $$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1323" y="-1142" width="351" height="138" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
