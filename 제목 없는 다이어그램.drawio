@@ -1596,7 +1596,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MGu4MuD_M-hhEo_xbKIe" name="equations">
-    <mxGraphModel dx="3818" dy="4867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2664" dy="4867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1613,10 +1613,10 @@
           <mxGeometry x="-1158" y="-2127" width="60" height="101" as="geometry" />
         </mxCell>
         <mxCell id="4Xjc2106ra13u_vmoknp-3" value="$$body \overset{C_{b}^{s}(-\alpha)}{\rightarrow} stability&amp;nbsp;\overset{C_{s}^{w}(\beta)}{\rightarrow} wind $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$C_{b}^{s} = \begin{bmatrix}c_{\alpha} &amp;amp; 0 &amp;amp; s&amp;nbsp;_{\alpha}&amp;nbsp;\\0 &amp;amp; 1 &amp;amp; 0\\ -s_{\alpha}&amp;nbsp;&amp;amp; 0 &amp;amp; c&amp;nbsp;_{\alpha}&amp;nbsp;\end{bmatrix}$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$C_{s}^{w} = \begin{bmatrix}c_{\beta} &amp;amp; s_{\beta} &amp;amp; 0&amp;nbsp;\\-s_{\beta} &amp;amp; c_{\beta} &amp;amp; 0\\&amp;nbsp;0&amp;nbsp;&amp;amp; 0 &amp;amp; 1&amp;nbsp;\end{bmatrix}$$&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1130" y="-1898" width="164" height="92" as="geometry" />
+          <mxGeometry x="-1130" y="-1896" width="164" height="92" as="geometry" />
         </mxCell>
         <mxCell id="4Xjc2106ra13u_vmoknp-4" value="$$C_{b}^{w} =C_{b}^{s}C_{s}^{w}= \begin{bmatrix} c_{\beta}c_{\alpha} &amp;amp; s_{\beta} &amp;amp; c_{\beta}s_{\alpha} \\ -s_{\beta}c_{\alpha} &amp;amp; c_{\beta} &amp;amp; -s_{\beta}s_{\alpha} \\-s_{\alpha} &amp;amp; 0 &amp;amp; c_{\alpha}\end{bmatrix}$$&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$C_{w}^{b} = \left( C_{b}^{w}\right)^{-1} = \begin{bmatrix} c_{\beta}c_{\alpha} &amp;amp; -s_{\beta}c_{\alpha} &amp;amp; -s_{\alpha} &amp;nbsp;\\ s_{\beta}&amp;amp; c_{\beta} &amp;amp; 0\\ c_{\beta}s_{\alpha}&amp;amp; &amp;nbsp;-s_{\beta}s_{\alpha}&amp;amp; c_{\alpha}\end{bmatrix} $$&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="-1727" width="364" height="186" as="geometry" />
+          <mxGeometry x="-1204" y="-1642" width="364" height="186" as="geometry" />
         </mxCell>
         <mxCell id="4Xjc2106ra13u_vmoknp-5" value="&amp;nbsp;$$\begin{pmatrix}U\\V\\W \end{pmatrix} =&amp;nbsp;\begin{pmatrix}V_T c_{\beta}c_{\alpha}\\V_T s_{\beta}\\V_T s_{\alpha}c_{\beta} \end{pmatrix} $$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1118" y="-1365" width="60" height="30" as="geometry" />
@@ -1625,13 +1625,16 @@
           <mxGeometry x="-1137" y="-1230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Xjc2106ra13u_vmoknp-7" value="$$C_L =C_{L_0}&amp;nbsp;(\alpha,\beta,M) + \Delta C_{L_\delta e} (\alpha,\beta,V,\delta e)+\Delta C_L(\delta_F) + \Delta C_{L_{ge}}(h)$$&lt;div&gt;&lt;br&gt;&lt;div&gt;$$ C_Y = C_ {Y_0} &amp;nbsp;(\alpha,\beta,M) + \Delta C_{Y_\delta a} (\alpha,\beta,V,\delta a)+ \Delta C_{Y_\delta r} (\alpha,\beta,V,\delta r) + C_{Y_p}(\alpha,V) \dfrac{Pb_{ref}}{2V_T}+ &amp;nbsp;C_{Y_r}(\alpha,V) \dfrac{Rb_{ref}}{2V_T} $$&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;$$C_D = C_{D_0} &amp;nbsp;(\alpha,\beta,M) + &amp;nbsp;C_{D_\delta a}(\alpha,V,\delta a)+ {\Delta} C_{D_\delta F}(\alpha,V,\delta F) + \Delta C_{D_\delta e}(\alpha,V,\delta e) &amp;nbsp;+ \Delta C_{D_\delta r}(\alpha,V,\delta r) $$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$ C_l = C_{l0} (\alpha,\beta,V) + C_{l_{p}}(\alpha,V) \dfrac{Pb_{ref}}{2V_T}+ C_{l_{r}}(\alpha,V) \dfrac{Rb_{ref}}{2V_T} + \Delta C_{l_{\delta a}}(\alpha,V,\delta_a)+ \Delta C_{m_{\delta r}}(\alpha, V,\delta_r) $$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;$$ C_m = C_{m0} (\alpha,\beta,V) + \{C_{m_{q}}(\alpha,V)Q+ C_{m_{\dot{\alpha}}}(\alpha,V)\dot{\alpha}\} \dfrac{c_{ref}}{2V_T} + \Delta C_{m_{\delta e}}(\alpha,V) \delta_e+\Delta C_{m_{T}}(\delta T, V, h) + \Delta C_{m_{gear}}(h)$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;$$ C_n= C_{n0} (\alpha,\beta,V) + C_{n_{p}}(\alpha,V) \dfrac{Pb_{ref}}{2V_T} + C_{n_{r}}(\alpha,V) \dfrac{Rb_{ref}}{2V_T}+ \Delta C_{n_{\delta a}}(\alpha,V) \delta_a+ \Delta C_{n_{\delta r}}(\alpha,V) \delta_r $$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-478" y="-324" width="1241" height="194" as="geometry" />
+          <mxGeometry x="-467" y="-401" width="1241" height="194" as="geometry" />
         </mxCell>
         <mxCell id="muF_yFTmwdRw36dewRWK-1" value="$$ \begin{pmatrix} C_{ l} \\ C_m \\ C_n \end{pmatrix} _{cg}=&amp;nbsp;\begin{pmatrix} C_l \\ C_m \\ C_n \end{pmatrix} _{MRC}+ \rho \times \begin{pmatrix} -C_D \\ C_Y &amp;nbsp;\\ -C_L \end{pmatrix} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-301" y="-40" width="982" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YgX_IRYMFPOg9pxquFoB-1" value="$$\begin $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-556" y="-1209" width="81" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="muF_yFTmwdRw36dewRWK-2" value="$$C_b^p = \begin{bmatrix} c_{\varepsilon}c_{\eta} &amp;amp; s_{\eta} &amp;amp; -c_{\varepsilon}s_{\eta} \\ -s_{\varepsilon}c_{\eta} &amp;amp; c_{\varepsilon} &amp;amp; s_{\varepsilon}s_{\eta} \\ s_{\eta} &amp;amp; 0 &amp;amp; c_{\eta} \end{bmatrix}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1143" y="-1629" width="1058" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
