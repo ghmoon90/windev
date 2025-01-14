@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1" version="26.0.4">
   <diagram name="페이지-1" id="XkV0R8OttJm_Pj5VWk8Z">
-    <mxGraphModel>
+    <mxGraphModel dx="1120" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-1" value="$$min ~J(x) = ||Ax-b||^2$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;s.t.&lt;/div&gt;&lt;div&gt;$$C{x}=d$$&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-2" value="$$L = J(x) + \lambda^T (Cx-d)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="428" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-3" value="Optimality condition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="468" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-4" value="$$\dfrac{\partial L}{\partial x} = 0, ~~&amp;nbsp;\dfrac{\partial L}{\partial \lambda} = 0 $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="510" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-5" value="$$\dfrac{\partial L}{\partial \lambda} = Cx-d =0 \rm{(trivial)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="555" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-6" value="$$\dfrac{\partial L}{\partial x} = 2A^T(Ax-b)+\lambda^TC =0$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$2A^TAx + C^T\lambda = 2A^Tb$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="613" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-7" value="$$\begin{bmatrix} 2A^T A &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix} \begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{pmatrix} 2A^T b \\ d &amp;nbsp;\end{pmatrix} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{bmatrix} 2A^T A &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix}^{-1}\begin{pmatrix} 2A^T b \\ d &amp;nbsp;\end{pmatrix} $$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="730" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-8" value="$$A = I, ~ b = 0$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="45" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-9" value="$$\begin{bmatrix} 2I &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix} \begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{pmatrix} 0 \\ d &amp;nbsp;\end{pmatrix} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{bmatrix} 2I &amp;amp; C^T(CC^T)^{-1} \\ C(CC^T)^{-1} &amp;amp; 0\end{bmatrix}\begin{pmatrix} 0 \\ d &amp;nbsp;\end{pmatrix} $$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="890" width="840" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-10" value="$$x= C^T (C C^T)^{-1} d$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\lambda = -2(CC^T)^{-1}d$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1020" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-11" value="$$\lambda^TC=C^T\lambda$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="255" y="658" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
