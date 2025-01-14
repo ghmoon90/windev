@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1" version="26.0.4">
   <diagram name="페이지-1" id="XkV0R8OttJm_Pj5VWk8Z">
-    <mxGraphModel dx="1322" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1187" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,22 +23,25 @@
           <mxGeometry x="-20" y="613" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dW6LHj0aimlCYFSBpkcu-7" value="$$\begin{bmatrix} 2A^T A &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix} \begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{pmatrix} 2A^T b \\ d &amp;nbsp;\end{pmatrix} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{bmatrix} 2A^T A &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix}^{-1}\begin{pmatrix} 2A^T b \\ d &amp;nbsp;\end{pmatrix} $$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="730" width="800" height="60" as="geometry" />
+          <mxGeometry x="-210" y="745" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dW6LHj0aimlCYFSBpkcu-8" value="$$A = I, ~ b = 0$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="45" y="840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dW6LHj0aimlCYFSBpkcu-9" value="$$\begin{bmatrix} 2I &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix} \begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{pmatrix} 0 \\ d &amp;nbsp;\end{pmatrix} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{bmatrix} 2I &amp;amp; C^T(CC^T)^{-1} \\ C(CC^T)^{-1} &amp;amp; 0\end{bmatrix}\begin{pmatrix} 0 \\ d &amp;nbsp;\end{pmatrix} $$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="1040" width="840" height="60" as="geometry" />
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-9" value="$$\begin{bmatrix} 2I &amp;amp; C^T \\ C &amp;amp; 0\end{bmatrix} \begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{pmatrix} 0 \\ d &amp;nbsp;\end{pmatrix} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\begin{pmatrix} x \\ \lambda \end{pmatrix} = \begin{bmatrix} \dfrac{1}{2}\{I-C^T(CC^T)^{-1}C\} &amp;amp; C^T(CC^T)^{-1} \\ -2(CC^T)^{-1}C &amp;amp; -2(CC^T)^{-1} \end{bmatrix}\begin{pmatrix} 0 \\ d &amp;nbsp;\end{pmatrix} $$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1060" width="1090" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dW6LHj0aimlCYFSBpkcu-10" value="$$x= C^T (C C^T)^{-1} d$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\lambda = -2(CC^T)^{-1}d$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1060" width="190" height="60" as="geometry" />
+          <mxGeometry x="5" y="1360" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dW6LHj0aimlCYFSBpkcu-11" value="$$\lambda^TC=C^T\lambda$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="255" y="658" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dW6LHj0aimlCYFSBpkcu-12" value="$$P=\begin{bmatrix} A &amp;amp; B \\ C &amp;amp; D \end{bmatrix}^{-1}=&amp;nbsp;\begin{bmatrix} (A-BD^{-1}C)^{-1} &amp;amp; -(A-BD^{-1}C)^{-1}BD^{-1} \\ -D^{-1}C&amp;nbsp;(A-BD^{-1}C)^{-1}&amp;nbsp;&amp;amp; D^{-1}+D^{-1}C&amp;nbsp;(A-BD^{-1}C)^{-1}BD^{-1} \end{bmatrix} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="1130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dW6LHj0aimlCYFSBpkcu-13" value="$$P=&amp;nbsp;\begin{bmatrix} A &amp;amp; B \\ C &amp;amp; D \end{bmatrix}^{-1}= \begin{bmatrix} A^{-1}+A^{-1}B(D-CA^{-1}B)^{-1}CA^{-1} &amp;amp; -A^{-1}B&amp;nbsp;(D-CA^{-1}B)^{-1}&amp;nbsp;\\ -(D-CA^{-1}B)^{-1} CA^{-1} &amp;amp; (D-CA^{-1}B)^{-1}&amp;nbsp;\end{bmatrix}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="1130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
