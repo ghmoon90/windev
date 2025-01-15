@@ -284,6 +284,9 @@
         <mxCell id="70Dq0QsuHY4BpYB4cuJ9-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-56" y="276" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="70Dq0QsuHY4BpYB4cuJ9-38" value="$$ T_{n} = \delta T $$&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="554" width="133" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
