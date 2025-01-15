@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xZIT243w_Y4UJ-A96Elm" name="페이지-2">
-    <mxGraphModel dx="1465" dy="865" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="711" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,6 +196,9 @@
         </mxCell>
         <mxCell id="Io49IruFd3vzNJGJRrGv-44" value="\rho_{A1} = li + rcos(0)j + rsin(0)k&lt;div&gt;\rho_{A2} = li + rcos(60)j+&amp;nbsp;&amp;nbsp;rsin(60)k&lt;/div&gt;&lt;div&gt;\rho_{A3} = li + rcos(120)j+&amp;nbsp;&amp;nbsp;rsin(120)k&lt;/div&gt;&lt;div&gt;\rho_{A4} = li + rcos(180)j&amp;nbsp;+&amp;nbsp;&amp;nbsp;rsin(180)k&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\rho_{A5} = li + rcos(240)j&amp;nbsp;+&amp;nbsp;&amp;nbsp;rsin(240)k&lt;/span&gt;&lt;/div&gt;&lt;div&gt;\rho_{A6} = li + rcos(300)j&amp;nbsp;+&amp;nbsp;&amp;nbsp;rsin(300)k&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="978" y="618" width="224" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Io49IruFd3vzNJGJRrGv-45" value="$$A_{1} = 0i - \delta T j + 0 k$$&lt;div&gt;$$A_{2} = 0i + 0 j -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\delta T&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;k$$&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;$$A_{3} = 0i + 0 j -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\delta T&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;k$$&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;$$A_{4} = 0i + \delta T j + 0 k$$&lt;div&gt;$$A_{5} = 0i + 0 j +&amp;nbsp;&amp;nbsp;\delta T&amp;nbsp;k$$&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$A_{6} = 0i + 0 j +&amp;nbsp;&lt;/span&gt;&amp;nbsp;\delta T&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;k$$&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="696" y="812" width="189" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
