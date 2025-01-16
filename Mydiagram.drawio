@@ -2014,7 +2014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HP9tPuQxM9Grh1Mx_OVa" name="quaternion">
-    <mxGraphModel dx="1053" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1091" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2022,10 +2022,22 @@
           <mxGeometry x="-10" y="90" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jHlcbkix_6cIw13eRGYf-2" value="$$\vec{q}_e=q_r \otimes q$$&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="66" y="327" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="310" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jHlcbkix_6cIw13eRGYf-3" value="$$\vec" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="131" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHlcbkix_6cIw13eRGYf-4" value="$$\vec{q}_r = \vec{q}_e * \vec{q} \rightarrow \vec{q}_e = \vec{q}_r * \vec{q}$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="433" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jHlcbkix_6cIw13eRGYf-5" value="$$\vec{q}_r = \vec{p} = p_0 + p_1 i + p_2 j + p_3 k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="490" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHlcbkix_6cIw13eRGYf-6" value="$$\vec{p} * \vec{q} = (p_0q_0-p_1q_1 - p_2q_2 - p_3q_3) + \\(p_1 q_0 +p_0 q_1 - p_3q_2 + p_2q_3) i + \\(p_2q_0 +p3_q_1 + p_0q_2 + p_1q_3)j + \\(p_3q_0 +p_2q_1 + p_1q_2 + p_2q_3)k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-499" y="560" width="1040" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHlcbkix_6cIw13eRGYf-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
