@@ -2052,15 +2052,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0rKPRVZgUPUSuEAcy1X3" name="쿼터니언 변환">
-    <mxGraphModel dx="1648" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1132" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zt6YQKqMrR6Nqna99PAd-1" value="$$\vec{b}_{n} = q_{\phi}^{-1} *q_{\theta}^{-1} *q_{\psi}^{-1}* \vec{v}_{n}*q_{\psi}*q_{\theta}*q_{\phi} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$q_{\phi} = c_{\phi/2}+ i s_{\phi/2}$$&lt;/div&gt;&lt;div&gt;$$q_{\theta} = c_{\theta/2}+ j s_{\theta/2}$$&lt;/div&gt;&lt;div&gt;$$q_{\psi} = c_{\psi/2}+ k s_{\psi/2}$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$q_n^b = q_{\psi}*q_{\theta}*q_{\phi} $$&lt;/div&gt;&lt;div&gt;$$q_{\psi}*q_{\theta} =c_{\psi/2}c_{\theta/2} + k s_{\psi/2} c_{\theta/2}+j c_{\psi/2}s_{\theta/2}-is_{\psi/2}s_{\theta/2}$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="110" width="640" height="140" as="geometry" />
+        <mxCell id="zt6YQKqMrR6Nqna99PAd-1" value="$$\vec{b}_{n} = q_{\phi}^{-1} *q_{\theta}^{-1} *q_{\psi}^{-1}* \vec{v}_{n}*q_{\psi}*q_{\theta}*q_{\phi} $$&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$q_{\phi} = c_{\phi/2}+ i s_{\phi/2}$$&lt;/div&gt;&lt;div&gt;$$q_{\theta} = c_{\theta/2}+ j s_{\theta/2}$$&lt;/div&gt;&lt;div&gt;$$q_{\psi} = c_{\psi/2}+ k s_{\psi/2}$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$q_n^b = q_{\psi}*q_{\theta}*q_{\phi} $$&lt;/div&gt;&lt;div&gt;$$q_{\psi}*q_{\theta} =c_{\psi/2}c_{\theta/2} -is_{\psi/2}s_{\theta/2} +j c_{\psi/2}s_{\theta/2} + k s_{\psi/2} c_{\theta/2} &amp;nbsp;$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="50" width="660" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zt6YQKqMrR6Nqna99PAd-2" value="c_{\psi/2}c_{\theta/2}c_{\phi/2}+&lt;div&gt;i()+&lt;/div&gt;&lt;div&gt;j()+&lt;/div&gt;&lt;div&gt;k()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="310" width="190" height="70" as="geometry" />
+        <mxCell id="zt6YQKqMrR6Nqna99PAd-2" value="c_{\psi/2}c_{\theta/2}c_{\phi/2}+s_{\psi/2}s_{\theta/2}s_{\phi/2}\\&lt;div&gt;i(-s_{\psi/2}s_{\theta/2}c_{\phi/2}+c_{\psi/2}c_{\theta/2}s_{\phi/2})+\\&lt;/div&gt;&lt;div&gt;j(c_{\psi/2}s_{\theta/2}c_{\phi/2}+s_{\psi/2}c_{\theta/2}s_{\phi/2})+\\&lt;/div&gt;&lt;div&gt;k(s_{\psi/2}c_{\theta/2}c_{\phi/2}-c_{\psi/2}s_{\theta/2}s_{\phi/2})&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="350" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zt6YQKqMrR6Nqna99PAd-3" value="q_0=c_{\psi/2}c_{\theta/2}c_{\phi/2}+s_{\psi/2}s_{\theta/2}s_{\phi/2}\\&lt;div&gt;q_1=(-s_{\psi/2}s_{\theta/2}c_{\phi/2}+c_{\psi/2}c_{\theta/2}s_{\phi/2})\\&lt;/div&gt;&lt;div&gt;q_2=(c_{\psi/2}s_{\theta/2}c_{\phi/2}+s_{\psi/2}c_{\theta/2}s_{\phi/2})\\&lt;/div&gt;&lt;div&gt;q_3=(s_{\psi/2}c_{\theta/2}c_{\phi/2}-c_{\psi/2}s_{\theta/2}s_{\phi/2})&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="468" width="400" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
