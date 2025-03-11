@@ -67,14 +67,14 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
 ## Contact:
 ### mobile
-*+82-10-2470-8939 (business)
-*+82-10-2413-8488 (personal)
+- +82-10-2470-8939 (business)
+- +82-10-2413-8488 (personal)
 
 ### email
-*ghmoon090@gmail.com 
-*ghmoon90@hyundai.com
+-ghmoon090@gmail.com 
+-ghmoon90@hyundai.com
 
 #### S.N.S
-*[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
-*[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
+-[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
+-[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
 	
