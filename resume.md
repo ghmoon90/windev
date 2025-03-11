@@ -2,7 +2,7 @@
 (born in Feb. 1990)
 
 ## Academic Background :
-- B.A., inha university, Aerospace Engineering, 2012  (GPA:4.21/4.5)
+- B.S., inha university, Aerospace Engineering, 2012  (GPA:4.21/4.5)
 - M.S., Korea Advanced Institute of Science and Technology, Aerospace Engineering, 2014 (GPA:3.90/4.3)
 - Ph.D., Korea Advanced Institute of Science and Technology, Aerospace Engineering, 2019 (GPA:3.91/4.3)
 
