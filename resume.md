@@ -7,7 +7,7 @@
 - Ph.D., Korea Advanced Institute of Science and Technology, Aerospace Engineering, 2019 (GPA:3.91/4.3)
 
 ## Job Experience :
-- Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1 </br>
+- Junior Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1 </br>
 - Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
 ### R&R at Hyundai Motor Company
