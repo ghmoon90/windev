@@ -68,8 +68,8 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 ## Contact:
 ### mobile
 
-	 +82-10-2470-8939 
-	 +82-10-2413-8488
+	 +82-10-2470-8939 (business)
+	 +82-10-2413-8488 (personal)
 
 ### email
 	ghmoon090@gmail.com 
