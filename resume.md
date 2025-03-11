@@ -66,7 +66,7 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 		- KSAS delegate (2024~2025)
 
 ## Contact:
-### cellular
+### mobile
 
 	 +82-10-2470-8939 
 	 +82-10-2413-8488
