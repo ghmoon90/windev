@@ -62,19 +62,19 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 - Young Professional (2025)
 
 ###	KSAS : 
-- KSAS life member (2020~), 
+- KSAS life member (2020~) </br>
 - KSAS delegate (2024~2025)
 
 ## Contact:
 ### mobile
-- +82-10-2470-8939 (business)
+- +82-10-2470-8939 (business) </br>
 - +82-10-2413-8488 (personal)
 
 ### email
--ghmoon090@gmail.com 
+-ghmoon090@gmail.com </br>
 -ghmoon90@hyundai.com
 
 #### S.N.S
--[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
+-[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)</br>
 -[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
 	
