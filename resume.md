@@ -108,6 +108,6 @@
 
 #### S.N.S
 - [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-) </br>
- <img src="/img/IMG_6162.jpeg" heights="200" />
+ <img src="/img/IMG_6162.jpeg" heights="50" />
 - [linkedin](https://www.linkedin.com/in/gunhee-moon-686338197) </br>
-	<img src="/img/IMG_6165.jpeg" heights="200" />
+	<img src="/img/IMG_6165.jpeg" heights="50" />
