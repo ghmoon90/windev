@@ -110,4 +110,4 @@
 - [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)</br>
  ![KakaoProfile](/img/IMG_6162.jpeg)
 - [linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
-	![linked in](/img/)
+	![linked in](/img/IMG_6165.jpeg)
