@@ -53,7 +53,7 @@
 +	Mathworks Training Certificates	
 	+ Embedded Coder for Production Code Generation 07-8 July 2020
 	+ Customized Course 23-25 June 2020
- + Simulation-Based Testing with Simulink, 10 July 2020  - Simulink Model Management and Architecture, 15-16 July 2020
+	+ Simulation-Based Testing with Simulink, 10 July 2020  - Simulink Model Management and Architecture, 15-16 July 2020
 	+ Integrating Code with Simulink, 21 July 2020
 	+ Polyspace for C/C++ Code Verification, 9-10 Sep 2020 
 	+ Statistical Methods in MATLAB, 12-13 April 2021
