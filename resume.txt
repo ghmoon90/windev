@@ -1,0 +1,46 @@
+Gun Hee Moon (born in 1990)
+
+Academic Background :
+B.A., inha university, Aerospace Engineering, 2012  (GPA:)
+M.S., Korea Advanced Institute of Science and Technology, Aerospace Engineering, 2014 (GPA:)
+Ph.D., Korea Advanced Institute of Science and Technology, Aerospace Engineering, 2019 (GPA:)
+
+Job Experience :
+Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1
+Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present
+ - 
+ - 
+
+Programing Skill Set:
+`Prompt Engineering - Chat GPT, MS copilot etc, LLM based coding, work automation 
+`MALTAB - Simulink design and embeded targetting, model based design
+`Python - especially for 
+`C/C++ - Win32 application, 
+`Fortran - elemetary level
+`web - html, css, javascript elementary level 
+`winbat - windows script language, work automation
+`bash - linux script language, work automation 
+
+Academic Interest:
+`Flight Dynamics : Lagrange Method, Uwadi Kalaba Equation, Multi body dynamics, 6DOF dynamics
+`Modern Control : Sliding Mode Control, H infinity Robust Control, Addaptive Control, 
+`Computer Science : Neural Network, Artificial Inteligence, Physics Informed Nerual Network, Cyber security, Quantum Computing 
+`Engineering Optimization : Heuristic Method, Hybrid Method, Augmented Largragian Method, Co-Evoluntionary augmented lagrangian method, Direct/Indirect Method, 
+
+Awards:
+2010, Korean Ministry of Industry, UAV challenge, Basic Plaform Devision - I-UAV Team Win 
+
+
+
+Papers:
+- 
+
+
+Contact:
+- +82-10-2470-8939 
+- +82-10-2413-8488
+- ghmoon090@gmail.com 
+- sns
+	Kakao : #
+	linked in:
+
