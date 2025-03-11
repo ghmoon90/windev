@@ -78,11 +78,11 @@
 - +82-10-2413-8488 (personal)
 
 ### email
--ghmoon090@gmail.com </br>
--ghmoon90@hyundai.com
+- ghmoon090@gmail.com </br>
+- ghmoon90@hyundai.com
 
 #### S.N.S
--[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)</br>
+- [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)</br>
  ![KakaoProfile](/img/IMG_6162.jpeg)
--[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
-	
+- [linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
+	![linked in](/img/)
