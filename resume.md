@@ -44,7 +44,21 @@
 -->
 
 #### International
-- Gunhee Moon, et al., "An Architectural framework for synchronized advanced flight simulation," APISAT, 28-30 Oct 2024, Austrailia, Adelaide  
+- Gunhee Moon, et al., "An Architectural framework for synchronized advanced flight simulation," APISAT, 28-30 Oct 2024, Austrailia, Adelaide
+- Gunhee Moon, et al., "Studies on the Tracking Performance of Off-axis Pitch/Yaw Gimbal Seeker in Roll Motion," 2018 Asia-Pacific International Symposium on Aerospace Technology, Chengdu, China, Oct. 2018
+- Dongyeon Lee, Gunhee Moon, et al., "Line of sight Rate Estimation Performace Analysis of Reference Frame using Kalman Filter," 2018 Asia-Pacific International Symposium on Aerospace Technology, Chengdu, China, Oct. 2018
+- Hyunsik Oh, Minjea Tahk, Dongwan Yoo, Byungyoon Lee, Gunhee Moon, "Robust Stabilization Technique for the Leader Steering Slung Load System using Sliding Mode Control," 2017 Asia-Pacific International Symposium on Aerospace Technology, Seoul, Korea, Oct. 2017
+- Gunhee Moon, et al., "Bezier-curve Navigation Guidance for Impact Time and Angle Control," Council of European Aerospace Societies 2017, Bucharest, Romania, Oct., 2017
+- Gunhee Moon, Minguk Seo, et al, "Time-to-go Prediction for Anti-Ballistic Missile Midcourse," 2017 AIAA SciTech- GNC, Grapvine TX, USA, Jan. 2017
+- Byungyoon Lee, Gunhee Moon, et al, "Slung-load System Controller Design Using Neural Networks for a Quad-rotor," 2016 Asia-Pacific International Symposium on Aerospace Technology, Toyama, Japan, Oct. 2016
+- Gunhee Moon, et al.,  "Augmented Polynomial guidance for Terminal velocity constraints," 30th Congress of the International Council of the Aeronautical Sciences, Dajeon, Korea, Sep. 2016
+- Gunhee Moon, et al., "Quaternion based attitude control and suboptimal rendezvous guidance on satellite proximity operation," Proceedings of European Control Conference, Alborg, Denmark, June 2016
+- Sangwook Shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Time-to-go polynomial guidance with impact angle constraint for missiles of time-varying velocity," International Conference on Aerospace Engineering, Moscow, Russia, May, 2016
+- Gunhee Moon, et al, "Optimal Rendezous guidance using linear quadratic control," The 4th Internataional Conference on Intelligent and Automation Systems, MATEC Web of Conferences, Nha Trang, Vietnam, Feb. 2016
+- Uihwan Choi, Namkyun Yoon, Gunhee Moon, et al., "Stability analysis and gain scheduled control of a high-altitude-long-endurance unmanned aerial vehicle," 2015 7th Kyushu University-Kaist Symposium on Aerospace Engineering, Fukuoka, Japan, Dec. 2015
+- Minjea Tahk, Youngwon Kim, Gunhee Moon, "Waypoint path planning for unpowered air vehicle landing using terminal velocity prediction method," 2015 Asia-Pacific International Symposium on Aerospace Technology, Carins, Austrailia, Oct. 2015
+- Byungyoon Lee, Haein Lee, Dongwan Yoo, Gunhee Moon, et al, "Study on Payload Stabilization Method with the Slung-load Transportation System Using a Quad-rotor," European Control Conference (ECC) 2015, Linz, Austria, July 2015
+- Hyunjoo Park, Gunhee Moon, et al, "Throttle based Attitude Controller Design for HALE Aircraft using co-Evolutionary Optimization," 12th YUST Conference, Yanbian, China, June 2015
 
 ### Journal
 <!--
@@ -55,10 +69,13 @@
 - Hyunjee Ryu, Junyoung Lim, Hongju Lee, Gunhee Moon, and Kyunam Kim, "An estimation method for Vision-based Autonomous Landing System for fixed wing aircraft", Int,l Journal of Robotics Research, Oct (2024), ISSN 0278-3649  
 - Byungyoon Lee, Gunhee Moon, Dongyeon Lee, and Minjea Tahk, "Modeling and Parameter Identification of the Slung Load System of an Unmanned Rotorcraft using a Flixible Cable," Int'l Journal of Aeronautical&Space Sciences, vol. 18, no. 2, pp.365-377, (2017)
 - Hyunju Park, Gunhee Moon, Minjea Tahk, and Byoungju Jeon, "Throttle based Altitude Controller Design for HALE Aircraft using Co-Evolutionary Optimization," Int'l Journal of Green Engineering and Management, vol.5, no.2, (2015)
-- Sangwook shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Impact Angle and Time Control Guidance Under Field-of-View Contraints and Maneuver Limits," Int'l Journal of Aeronautical and Space Sciences, vol. 18, no. 4, pp. 112-121, (2017)
+- Sangwook Shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Impact Angle and Time Control Guidance Under Field-of-View Contraints and Maneuver Limits," Int'l Journal of Aeronautical and Space Sciences, vol. 18, no. 4, pp. 112-121, (2017)
 - Gunhee Moon, Sangwook Shim, Minjea Tahk, "Bezier-curve Navigation Guidance for Impact Time and Angle Control," 
 - Haein Lee, Dongwan Yoo, Byungyoon Lee, Gunhee Moon, DongYeon Lee, Minjea Tahk, Hyosang Shin, "Parameter-robust linear quadratic Gaussian techinique for multi-agent slung load transportation," Aerospace Science and Techonology, vol 71, pp.119-127, (2017)
 - Minjea Tahk, Gunhee Moon, Sangwook Shim, "Augmented Polynomial Guidance with Terminal Speed Constraints for Unpowered Aerial Vehicles," Int'l Journal of Aeronautical and Space Sciences, (2018)
+- Sangwook Shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Time-to-go Polynomial Guidance with Impact Angle Contraints for Missile of Time-Varying Velocity," International Journal of Mechanical Engineering and Robotics Research, vol. 6, no. 1, pp. 65-70, 2017
+- Hyunshik Oh, Dongwan Yoo, Byungyoon Lee, Gunhee Moon, Minjea Tahk, "Leader Steering method for the guidance and control of multi-lift transport system," Int'l Journal of Robotics and Automataion, vol.32, no.5, Oct. 2017
+- 
 
 ### Personal Blog
 - http://blog.naver.com/moonset90
