@@ -18,7 +18,7 @@
  - Scanning novel technology 
  - Aircraft SW Certification (DO 178C, DO 331)
 
-### Programing Skill Set
+## Programing Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc, LLM based coding, work automation 
 - MALTAB - Simulink design and embeded targetting, model based design (expert)
 - Python - especially for data analysis (expert)
@@ -51,8 +51,16 @@
 
 ## Certificates:
 -	Mathworks Training Certificates		 
-		- 1
-		- 2
+		- Embedded Coder for Production Code Generation 07-8 July 2020
+		- Customized Course 23-25 June 2020
+  - Simulation-Based Testing with Simulink, 10 July 2020
+  - Simulink Model Management and Architecture, 15-16 July 2020
+  - Integrating Code with Simulink, 21 July 2020
+  - Polyspace for C/C++ Code Verification, 9-10 Sep 2020 
+  - Statistical Methods in MATLAB, 12-13 April 2021
+  - Simulink Fundamentals for Automotive Applications, 16-17 Apr 2024
+  - Stateflow for Automotive Applications, 18-19 Apr 2024
+
 
 -	WordProcess lv.2, Korea Chamber of Commerce and Industry, license no. 03-14-004302 (2003.12.24)
 
