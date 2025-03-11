@@ -51,8 +51,8 @@
 
 ## Certificates:
 -	Mathworks Training Certificates		 
-		--1
-		--2
+		- 1
+		- 2
 
 -	WordProcess lv.2, Korea Chamber of Commerce and Industry, license no. 03-14-004302 (2003.12.24)
 
