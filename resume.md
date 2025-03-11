@@ -50,7 +50,7 @@
 -	2012, Korean Ministry of Industry, UAV challeng:Basic Plaform Devision, "I-UAV Team" Win 1st place, Hosted by Korea Aerospace Industries Associationtion 
 
 ## Certificates:
--	Mathworks Training Certificates	
++	Mathworks Training Certificates	
 	+ Embedded Coder for Production Code Generation 07-8 July 2020
 	+ Customized Course 23-25 June 2020
  + Simulation-Based Testing with Simulink, 10 July 2020  - Simulink Model Management and Architecture, 15-16 July 2020
