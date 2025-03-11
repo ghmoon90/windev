@@ -30,7 +30,7 @@
 - winbat - windows script language, work automation
 - bash - linux script language, work automation 
 - Amesim - Siemense Flight simulation tool
-- FLIGHTLAB - multibody dynamic simulator for rotary wing aircraft
+- FLIGHTLAB - multibody dynamic simulator for rotorcraft
 
 ## Publication
 ### Books
