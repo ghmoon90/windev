@@ -10,7 +10,7 @@
 - Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1 </br>
 - Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
-### R&R
+### R&R at Hyundai Motor Company
  - Desinging flight controller for eVTOL aircraft system
  - Engineering on Guidance, Naviagation and Control
  - Research on detection and avoid tech 
@@ -50,9 +50,10 @@
 -	2012, Korean Ministry of Industry, UAV challeng:Basic Plaform Devision, "I-UAV Team" Win 1st place, Hosted by Korea Aerospace Industries Associationtion 
 
 ## Certificates:
--	Mathworks Training Certificates
-		* 
-		*
+-	Mathworks Training Certificates		 
+		--1
+		--2
+
 -	WordProcess lv.2, Korea Chamber of Commerce and Industry, license no. 03-14-004302 (2003.12.24)
 
 ## Academic association membership:
