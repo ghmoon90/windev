@@ -59,6 +59,33 @@
 - Minjea Tahk, Youngwon Kim, Gunhee Moon, "Waypoint path planning for unpowered air vehicle landing using terminal velocity prediction method," 2015 Asia-Pacific International Symposium on Aerospace Technology, Carins, Austrailia, Oct. 2015
 - Byungyoon Lee, Haein Lee, Dongwan Yoo, Gunhee Moon, et al, "Study on Payload Stabilization Method with the Slung-load Transportation System Using a Quad-rotor," European Control Conference (ECC) 2015, Linz, Austria, July 2015
 - Hyunjoo Park, Gunhee Moon, et al, "Throttle based Attitude Controller Design for HALE Aircraft using co-Evolutionary Optimization," 12th YUST Conference, Yanbian, China, June 2015
+- 22. H.I.Lee, B.Y.Lee, D.W.Yoo, G.H.Moon, M.J.Tahk, "Dynamic Modeling and Robust Controller
+Design of the Multi-UAV Cooperative Transportation System," 29th Congress of the International
+Council of the Aeronautical Sciences, St. Petersburg, Russia, Sep. 2014.
+23. G.H.Moon, D.W.Yoo, B.Y.Lee, H.I.Lee, and M.J.Tahk, "Multiple Task Assignment for
+Cooperative Transport System with Group Buying Approach," 29th Congress of the International
+Council of the Aeronautical Sciences, ICAS 2015, st. Petersburg, Russia, Sep. 2014.
+24. G.H.Moon, D.W.Yoo, B.Y.Lee, H.I.Lee, M.J.Tahk, "Centralized Group Buying Approach for
+Multiple Cooperative Task Allocation," 2014 The 2nd International Conference on Intelligent and
+Automation Systems, Hanoi, Vietnam, Feb. 2014.
+25. B.Y.Lee, S.M.Hong, D.W.Yoo, H.I.Lee, G.H.Moon, M.J.Tahk, "Design of a Neural Network
+Controller for a Slung-Load System Lifted by 1 Quad-Rotor," 2014 The 2nd International
+Conference on Intelligent and Automation Systems, Hanoi, Vietnam, Feb. 2014.
+26. K.S.Kim, G.H.Moon, J.W.Kim, J.W.Jeong, H.L.Choi, H.C.Shim, M.J.Tahk, "Coordination of
+UAV-UGVs Team with Vision-Based Mapping and Greedy Task Allocation," The 2nd
+International Conference on Robot Intelligence Technology and Application, Denver, USA, Dec.
+2013.
+27. H.I.Lee, D.W.Yoo, B.Y.Lee, G.H.Moon, M.J.Tahk, "Quadrotor UAV Slung-Load Transportation
+System Design," 2013 Asia-Pacific International Symposium on Aeropsace Technology,
+Takamatsu, Japan, Nov. 2013.
+28. G.H.Moon, C.H.Lee, D.W.Yoo, M.J.Tahk, "Consensus Based Bundle Algorithm for Air to Air
+Weapon Assignment," JSASS Western Branch Conference 2012, Fukuoka, Japan, Nov. 2012.
+29. G.H.Moon, C.H.Lee, D.W.Yoo, M.J.Tahk, "Decentralized Cooperative Control Algorithm for
+JSEAD mission," 2012 Asia-Pacific International Symposium on Aerospace Technology, Jeju,
+Korea, Nov. 2012.
+30. C.H.Lee, D.W.Yoo, G.H.Moon, M.J.Tahk, "Resource Management Algorithm for Suppression of
+Enemy Air Defense (SEAD) Mission," 2012 Asia-Pacific International Symposium on Aerospace
+Technology, Jeju, Korea, Nov. 2012.
 
 ### Journal
 <!--
