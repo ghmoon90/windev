@@ -52,7 +52,7 @@
 -->
 
 #### International 
-- Hyunji Ryu, Gunhee Moon, "" 
+- Hyunjee Ryu, Junyoung Lim, Hongju Lee, Gunhee Moon, and Kyunam Kim, "An estimation method for Vision-based Autonomous Landing System for fixed wing aircraft", Int,l Journal of Robotics Research, Oct (2024), ISSN 0278-3649  
 - Byungyoon Lee, Gunhee Moon, Dongyeon Lee, and Minjea Tahk, "Modeling and Parameter Identification of the Slung Load System of an Unmanned Rotorcraft using a Flixible Cable," Int'l Journal of Aeronautical&Space Sciences, vol. 18, no. 2, pp.365-377, (2017)
 - Hyunju Park, Gunhee Moon, Minjea Tahk, and Byoungju Jeon, "Throttle based Altitude Controller Design for HALE Aircraft using Co-Evolutionary Optimization," Int'l Journal of Green Engineering and Management, vol.5, no.2, (2015)
 - Sangwook shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Impact Angle and Time Control Guidance Under Field-of-View Contraints and Maneuver Limits," Int'l Journal of Aeronautical and Space Sciences, vol. 18, no. 4, pp. 112-121, (2017)
