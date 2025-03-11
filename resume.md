@@ -63,14 +63,14 @@ Certificates:
 		- KSAS life member (2020~), 
 		- KSAS delegate (2024~2025)
 
-#Contact:
-## cellular
+## Contact:
+### cellular
 	 +82-10-2470-8939 
 	 +82-10-2413-8488
-## email
+### email
 	ghmoon090@gmail.com 
 	ghmoon90@hyundai.com
-## S.N.S
+### S.N.S
 	[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
 	[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
 	
