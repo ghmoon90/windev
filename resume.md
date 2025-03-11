@@ -44,16 +44,21 @@
 -->
 
 #### International
-- Gun Hee Moon, 
+- Gunhee Moon, et al., "An Architectural framework for synchronized advanced flight simulation," APISAT, 28-30 Oct 2024, Austrailia, Adelaide  
 
 ### Journal
-
+<!--
 #### Domestic
-
-
+-->
 
 #### International 
-
+- Hyunji Ryu, Gunhee Moon, "" 
+- Byungyoon Lee, Gunhee Moon, Dongyeon Lee, and Minjea Tahk, "Modeling and Parameter Identification of the Slung Load System of an Unmanned Rotorcraft using a Flixible Cable," Int'l Journal of Aeronautical&Space Sciences, vol. 18, no. 2, pp.365-377, (2017)
+- Hyunju Park, Gunhee Moon, Minjea Tahk, and Byoungju Jeon, "Throttle based Altitude Controller Design for HALE Aircraft using Co-Evolutionary Optimization," Int'l Journal of Green Engineering and Management, vol.5, no.2, (2015)
+- Sangwook shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Impact Angle and Time Control Guidance Under Field-of-View Contraints and Maneuver Limits," Int'l Journal of Aeronautical and Space Sciences, vol. 18, no. 4, pp. 112-121, (2017)
+- Gunhee Moon, Sangwook Shim, Minjea Tahk, "Bezier-curve Navigation Guidance for Impact Time and Angle Control," 
+- Haein Lee, Dongwan Yoo, Byungyoon Lee, Gunhee Moon, DongYeon Lee, Minjea Tahk, Hyosang Shin, "Parameter-robust linear quadratic Gaussian techinique for multi-agent slung load transportation," Aerospace Science and Techonology, vol 71, pp.119-127, (2017)
+- Minjea Tahk, Gunhee Moon, Sangwook Shim, "Augmented Polynomial Guidance with Terminal Speed Constraints for Unpowered Aerial Vehicles," Int'l Journal of Aeronautical and Space Sciences, (2018)
 
 ### Personal Blog
 - http://blog.naver.com/moonset90
