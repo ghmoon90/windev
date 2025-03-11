@@ -74,7 +74,7 @@
 -	Copyright for "Satellite Proximity-Operation Simulator," (2017) 
 
 ## Awards:
--	2012, Korean Ministry of Industry, UAV challeng:Basic Plaform Devision, "I-UAV Team" Win 1st place, Hosted by Korea Aerospace Industries Associationtion 
+-	2012, Korean Ministry of Industry, UAV challenge : Elementary Plaform Devision, "I-UAV Team" Win 1st place, Hosted by Korea Aerospace Industries Associationtion 
 
 ## Certificates:
 +	Mathworks Training Certificates	
