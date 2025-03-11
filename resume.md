@@ -11,12 +11,12 @@
 - Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
 ### R&R at Hyundai Motor Company
- - Desinging flight controller for eVTOL aircraft system
- - Engineering on Guidance, Naviagation and Control
- - Research on detection and avoid tech 
- - Organizing business proposal  
- - Scanning novel technology 
- - Aircraft SW Certification (DO 178C, DO 331)
+- Desinging flight controller for eVTOL aircraft system
+- Engineering on Guidance, Naviagation and Control
+- Research on detection and avoid tech 
+- Organizing business proposal  
+- Scanning novel technology  
+- Aircraft SW Certification (DO 178C, DO 331)
 
 ## Programing Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc, LLM based coding, work automation 
@@ -50,8 +50,7 @@
 -	2012, Korean Ministry of Industry, UAV challeng:Basic Plaform Devision, "I-UAV Team" Win 1st place, Hosted by Korea Aerospace Industries Associationtion 
 
 ## Certificates:
--	Mathworks Training Certificates		 
-
+-	Mathworks Training Certificates	
 	+ Embedded Coder for Production Code Generation 07-8 July 2020
 	+ Customized Course 23-25 June 2020
  + Simulation-Based Testing with Simulink, 10 July 2020  - Simulink Model Management and Architecture, 15-16 July 2020
