@@ -107,7 +107,7 @@
 - ghmoon90@hyundai.com
 
 #### S.N.S
-- [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)</br>
- ![Kakao Profile](./img/IMG_6162.jpeg =200x)
-- [linkedin](https://www.linkedin.com/in/gunhee-moon-686338197)
-	![linkedin Profile](./img/IMG_6165.jpeg =200x)
+- [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-) </br>
+ <img src="/img/IMG_6162.jpeg" heights="200" />
+- [linkedin](https://www.linkedin.com/in/gunhee-moon-686338197) </br>
+	<img src="/img/IMG_6165.jpeg" heights="200" />
