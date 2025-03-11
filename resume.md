@@ -48,7 +48,7 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 -	Copyright for "Satellite Proximity-Operation Simulator," (2017) 
 
 ## Awards:
--	2012, Korean Ministry of Industry, UAV challenge, Basic Plaform Devision - I-UAV Team Win, Hosted by Korea Aerospace Industries Associationtion 
+-	2012, Korean Ministry of Industry, UAV challeng:Basic Plaform Devision, "I-UAV Team" Win 1st place, Hosted by Korea Aerospace Industries Associationtion 
 
 ## Certificates:
 -	Mathworks Training Certificates
@@ -58,25 +58,23 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
 ## Academic association membership:
 ###	AIAA : 
-		- Professional (2020)
-		- Young Professional (2025)
+- Professional (2020)
+- Young Professional (2025)
 
 ###	KSAS : 
-		- KSAS life member (2020~), 
-		- KSAS delegate (2024~2025)
+- KSAS life member (2020~), 
+- KSAS delegate (2024~2025)
 
 ## Contact:
 ### mobile
-
-	 +82-10-2470-8939 (business)
-	 +82-10-2413-8488 (personal)
+*+82-10-2470-8939 (business)
+*+82-10-2413-8488 (personal)
 
 ### email
-	ghmoon090@gmail.com 
-	ghmoon90@hyundai.com
+*ghmoon090@gmail.com 
+*ghmoon90@hyundai.com
 
 #### S.N.S
-
-	[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
-	[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
+*[KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
+*[linked in](https://www.linkedin.com/in/gunhee-moon-686338197)
 	
