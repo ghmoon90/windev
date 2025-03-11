@@ -18,7 +18,7 @@
 - Scanning novel technology  
 - Aircraft SW Certification (DO 178C, DO 331)
 
-## Programing Skill Set
+## Programming Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc, LLM based coding, work automation 
 - MALTAB - Simulink design and embeded targetting, model based design (expert)
 - Python - especially for data analysis (expert)
@@ -33,8 +33,14 @@
 - FLIGHTLAB - multibody dynamic simulator for rotary wing aircraft
 
 ## Publication
+### Books
 - (Ph.D. Desertation) Prediction Based Terminal Velocity Control Guidance Law, KAIST, 2019 
 - (M.S. Thesis) Group Buying Algorithm for Task Assigment of Multi-Agent Load Transport System, KAIST, 2014
+
+### 
+
+### Personal Blog
+- http://blog.naver.com/moonset90
 
 ## Research Interest:
 - Flight Dynamics : Lagrange Method, Uwadi Kalaba Equation, Multi body dynamics, 6DOF dynamics
