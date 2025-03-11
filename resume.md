@@ -94,7 +94,7 @@
 - Young Professional (2025)
 
 ###	KSAS : 
-- KSAS life member (2020~) </br>
+- KSAS lifetime member (2020~) </br>
 - KSAS delegate (2024~2025)
 
 ## Contact:
