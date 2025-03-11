@@ -84,7 +84,7 @@
 - Minjea Tahk, Gunhee Moon, Sangwook Shim, "Augmented Polynomial Guidance with Terminal Speed Constraints for Unpowered Aerial Vehicles," Int'l Journal of Aeronautical and Space Sciences, (2018)
 - Sangwook Shim, Seoungmin Hong, Gunhee Moon, Minjea Tahk, "Time-to-go Polynomial Guidance with Impact Angle Contraints for Missile of Time-Varying Velocity," International Journal of Mechanical Engineering and Robotics Research, vol. 6, no. 1, pp. 65-70, 2017
 - Hyunshik Oh, Dongwan Yoo, Byungyoon Lee, Gunhee Moon, Minjea Tahk, "Leader Steering method for the guidance and control of multi-lift transport system," Int'l Journal of Robotics and Automataion, vol.32, no.5, Oct. 2017
-- 
+  
 
 ### Personal Blog
 - Naver : http://blog.naver.com/moonset90
