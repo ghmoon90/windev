@@ -62,7 +62,7 @@
  + Stateflow for Automotive Applications, 18-19 Apr 2024
 
 
--	WordProcess lv.2, Korea Chamber of Commerce and Industry, license no. 03-14-004302 (2003.12.24)
+-	Word Process lv.2, Korea Chamber of Commerce and Industry, license no. 03-14-004302 (2003.12.24)
 
 ## Academic association membership:
 ###	AIAA : 
