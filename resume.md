@@ -109,5 +109,6 @@
 #### S.N.S
 - [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
 <img src="/img/IMG_6162.jpeg" height="400" />
-- [linkedin](https://www.linkedin.com/in/gunhee-moon-686338197)
+
+- [linked_in](https://www.linkedin.com/in/gunhee-moon-686338197)
 <img src="/img/IMG_6165.jpeg" height="300" />
