@@ -7,9 +7,8 @@
 - Ph.D., Korea Advanced Institute of Science and Technology, Aerospace Engineering, 2019 (GPA:3.91/4.3)
 
 ## Job Experience :
-
-Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1 </br>
-Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
+- Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1 </br>
+- Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
 ### R&R
  - Desinging flight controller for eVTOL aircraft system
@@ -44,7 +43,7 @@ Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 - Engineering Optimization : Heuristic Method, Hybrid Method, Augmented Largragian Method, Co-Evoluntionary augmented lagrangian method, Direct/Indirect Method, 
 -	Task Assignment : multiagents task allocation, resource managemnet etc
 
-## Intelecture Property
+## Intelectural Property
 -	Copyright for "Satellite Proximity-Operation Simulator," (2017) 
 
 ## Awards:
