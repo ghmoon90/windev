@@ -17,6 +17,8 @@
   - Organizing business proposal  
   - Scanning novel technology  
   - Aircraft SW Certification (DO 178C, DO 331)
+  - Advanced Flight Simulator for Inteligent System, Detection and avoid 
+  - Pilot Training Flight Simulator, Modeling and Simulation (M&S) (FAA Part 60)
 
 ## Programming Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc, LLM based coding, work automation 
