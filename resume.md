@@ -10,13 +10,13 @@
 - Junior Researcher, Hyundai Motor Company, 2019.1.15 ~ 2020.1.1 </br>
 - Senior Researcher, Hyundai Motor Company, 2020.1.1 ~ present </br>
 
-  ***R&R at Hyundai Motor Company***
-- Designing flight controller for eVTOL aircraft system
-- Engineering on Guidance, Naviagation and Control
-- Research on detection and avoid tech 
-- Organizing business proposal  
-- Scanning novel technology  
-- Aircraft SW Certification (DO 178C, DO 331)
+ ***R&R at Hyundai Motor Company***
+ - Designing flight controller for eVTOL aircraft system
+ - Engineering on Guidance, Naviagation and Control
+ - Research on detection and avoid tech 
+ - Organizing business proposal  
+ - Scanning novel technology  
+ - Aircraft SW Certification (DO 178C, DO 331)
 
 ## Programming Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc, LLM based coding, work automation 
