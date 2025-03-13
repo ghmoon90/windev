@@ -117,13 +117,17 @@
 + Word Process lv.2, Korea Chamber of Commerce and Industry, license no. 03-14-004302 (2003.12.24)
 
 ## Academic association membership:
-###	AIAA : 
+###	American Institute of Aeronautics and Aerospace (AIAA) : 
 - Professional (2020)
 - Young Professional (2025)
 
-###	KSAS : 
+###	Korean (KSAS) : 
 - KSAS lifetime member (2020~) </br>
 - KSAS delegate (2024~2025)
+
+
+### VERTICAL FLIGHT SOCIETY (VFS)
+- VFS member (2024)
 
 ## Contact:
 ### mobile
