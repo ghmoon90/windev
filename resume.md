@@ -127,7 +127,7 @@
 
 
 ### VERTICAL FLIGHT SOCIETY (VFS)
-- VFS member (2024)
+- VFS member (2024, no.32962)
 
 ## Contact:
 ### mobile
