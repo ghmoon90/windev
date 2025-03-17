@@ -138,9 +138,12 @@
 - ghmoon090@gmail.com </br>
 - ghmoon90@hyundai.com
 
-#### S.N.S
+### Sns
 - [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
 <img src="/img/IMG_6162.jpeg" height="400" />
 
 - [linked_in](https://www.linkedin.com/in/gunhee-moon-686338197)
 <img src="/img/IMG_6165.jpeg" height="300" />
+
+### mobile contact
+- [click](contact_mgh.vcf) 
