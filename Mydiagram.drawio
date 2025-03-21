@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.8" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1" version="26.0.7" pages="11">
   <diagram id="1-zzHrUF9aOdMNbdqvfs" name="SAS">
     <mxGraphModel dx="2087" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2218,6 +2218,23 @@
         </mxCell>
         <mxCell id="JzvUucCbs6doitAfeFoC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="JzvUucCbs6doitAfeFoC-20" target="JzvUucCbs6doitAfeFoC-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bGDhwM_zdaKbD79qXzh5" name="navigation">
+    <mxGraphModel dx="396" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TFtrcHSJm6ykC7taesiD-1" value="$$ \begin{bmatrix} s_{\lambda}\end{bmatrix} $$" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFtrcHSJm6ykC7taesiD-2" value="$$\alpha$$" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TFtrcHSJm6ykC7taesiD-3" value="$$\begin{bmatrix}&amp;nbsp;&lt;div&gt;&lt;div&gt;-s_{\phi}c_{\lambda} &amp;amp; -s_{\lambda} &amp;amp; -c_{\phi}c_{\lambda} \\&lt;/div&gt;-s_{\phi}s_{\lambda} &amp;amp; c_{\lambda} &amp;amp; -c_{\phi}s_{\lambda} \\ c_{\phi} &amp;amp; 0 &amp;amp; -s_{\phi} \end{bmatrix}$$&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
