@@ -67,10 +67,16 @@ def get_alignment_positions(version):
 
     return positions
 
-def is_in_corner(matrix_x, matrix_y, border, adjusted_matrix_size):
-    """Check if the module is within the 7x7 corner areas."""
-    if (0 <= matrix_x < 7 or adjusted_matrix_size - 7 <= matrix_x < adjusted_matrix_size) and \
-       (0 <= matrix_y < 7 or adjusted_matrix_size - 7 <= matrix_y < adjusted_matrix_size):
+def is_in_corner(matrix_x, matrix_y, border_size, adjusted_matrix_size):
+    """Check if the module is within the 7x7 corner areas (top-left, top-right, bottom-left)."""
+    # Top-left corner
+    if 0 <= matrix_x < 7 and 0 <= matrix_y < 7:
+        return True
+    # Top-right corner
+    if adjusted_matrix_size - 7 <= matrix_x < adjusted_matrix_size and 0 <= matrix_y < 7:
+        return True
+    # Bottom-left corner
+    if 0 <= matrix_x < 7 and adjusted_matrix_size - 7 <= matrix_y < adjusted_matrix_size:
         return True
     return False
 
