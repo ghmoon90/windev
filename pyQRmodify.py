@@ -54,10 +54,10 @@ def get_alignment_positions(version, border):
     step = (version * 8 + num_align * 3 + 5) // (num_align * 4 - 4)
     step = step if step % 2 == 0 else step + 1  # Ensure even step size
 
-    positions = [6 + border]
+    positions = [6 ]
     for i in range(1, num_align - 1):
         positions.append(positions[-1] + step)
-    positions.append(version * 4 + 6 + border)
+    positions.append(version * 4 + 10 )
     return positions
 
 def is_in_corner(matrix_x, matrix_y, border, adjusted_matrix_size):
@@ -73,9 +73,9 @@ def is_alignment_pattern(x, y, version, border, adjusted_matrix_size):
     for px in positions:
         for py in positions:
             # Skip the finder pattern areas
-            if (px == border and py == border) or \
-               (px == border and py == adjusted_matrix_size - 1 - border) or \
-               (px == adjusted_matrix_size - 1 - border and py == border):
+            if (px == 6 and py == 6) or \
+               (px == 6 and py == adjusted_matrix_size - 1 - 6) or \
+               (px == adjusted_matrix_size - 1 - 6 and py == 6):
                 continue
             # Check if (x, y) is within the 5x5 area of the alignment pattern
             if px - 2 <= x <= px + 2 and py - 2 <= y <= py + 2:
