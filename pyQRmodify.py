@@ -123,8 +123,8 @@ def create_custom_qr(data, output_path="custom_qr.png"):
                 top_left = ((x + quiet_zone_size) * dot_size, (y + quiet_zone_size) * dot_size)
                 bottom_right = ((x + 1 + quiet_zone_size) * dot_size, (y + 1 + quiet_zone_size) * dot_size)
 
-                adjusted_x = x
-                adjusted_y = y
+                adjusted_x = x -border_size
+                adjusted_y = y -border_size
 
                 if is_in_corner(adjusted_x, adjusted_y, border_size, adjusted_matrix_size):
                     # Draw corner boxes
