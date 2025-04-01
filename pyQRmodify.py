@@ -86,6 +86,7 @@ def create_custom_qr(data, output_path="custom_qr.png"):
     """Generate a customized QR code based on the provided data."""
     # QR code configuration
     border_size = 4
+    quiet_zone_size = 4  # Quiet zone is typically 4 modules
     qr = qrcode.QRCode(
         version=None,
         error_correction=qrcode.constants.ERROR_CORRECT_L,
@@ -103,11 +104,11 @@ def create_custom_qr(data, output_path="custom_qr.png"):
 
     # Image size calculations
     dot_size = 10  # Size of each module in pixels
-    img_size = adjusted_matrix_size * dot_size  # Adjusted to exclude borders
+    total_size = (matrix_size + 2 * quiet_zone_size) * dot_size  # Total size including quiet zone
 
     # Create a blank image with the specified background color
     background_color = (233, 233, 244)
-    img = Image.new("RGB", (img_size, img_size), color=background_color)
+    img = Image.new("RGB", (total_size, total_size), color=background_color)
     draw = ImageDraw.Draw(img)
 
     # Colors
@@ -115,15 +116,15 @@ def create_custom_qr(data, output_path="custom_qr.png"):
     data_color = corner_color  # Use the same color for data modules
 
     # Draw the QR code
-    for y in range(border_size, matrix_size - border_size):
-        for x in range(border_size, matrix_size - border_size):
+    for y in range(matrix_size):
+        for x in range(matrix_size):
             if matrix[y][x]:  # True indicates a black module
-                # Calculate pixel position
-                top_left = ((x - border_size) * dot_size, (y - border_size) * dot_size)
-                bottom_right = ((x - border_size + 1) * dot_size, (y - border_size + 1) * dot_size)
+                # Calculate pixel position including quiet zone
+                top_left = ((x + quiet_zone_size) * dot_size, (y + quiet_zone_size) * dot_size)
+                bottom_right = ((x + 1 + quiet_zone_size) * dot_size, (y + 1 + quiet_zone_size) * dot_size)
 
-                adjusted_x = x - border_size
-                adjusted_y = y - border_size
+                adjusted_x = x
+                adjusted_y = y
 
                 if is_in_corner(adjusted_x, adjusted_y, border_size, adjusted_matrix_size):
                     # Draw corner boxes
@@ -132,6 +133,7 @@ def create_custom_qr(data, output_path="custom_qr.png"):
                     # Draw alignment pattern boxes
                     draw.rectangle([top_left, bottom_right], fill=corner_color)
                 else:
+                    # Draw rotated hexagon for data points
                     center_x = (top_left[0] + bottom_right[0]) / 2
                     center_y = (top_left[1] + bottom_right[1]) / 2
                     hex_size = dot_size * 0.4
