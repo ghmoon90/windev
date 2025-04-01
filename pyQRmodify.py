@@ -45,19 +45,26 @@ def draw_hexagon(draw, center_x, center_y, size, color, rotation):
     ]
     draw.polygon(points, fill=color)
 
-def get_alignment_positions(version, border):
+def get_alignment_positions(version):
     """Retrieve alignment pattern positions for a given QR code version."""
     if version == 1:
         return []
 
+    # Number of alignment patterns based on QR code version
     num_align = (version // 7) + 2
-    step = (version * 8 + num_align * 3 + 5) // (num_align * 4 - 4)
-    step = step if step % 2 == 0 else step + 1  # Ensure even step size
 
-    positions = [6 ]
-    for i in range(1, num_align - 1):
-        positions.append(positions[-1] + step)
-    positions.append(version * 4 + 10 )
+    # Calculate the spacing between alignment patterns
+    size = version * 4 + 17  # Total size of the QR code matrix
+    step = (size - 13) // (num_align - 1)  # Evenly distribute alignment patterns
+
+    # Ensure the step size is even for consistent spacing
+    step = step if step % 2 == 0 else step + 1
+
+    # Calculate positions of alignment patterns
+    positions = []
+    for i in range(num_align):
+        positions.append(6 + i * step)
+
     return positions
 
 def is_in_corner(matrix_x, matrix_y, border, adjusted_matrix_size):
