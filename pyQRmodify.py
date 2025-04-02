@@ -82,7 +82,7 @@ def is_in_corner(matrix_x, matrix_y, border_size, adjusted_matrix_size):
 
 def is_alignment_pattern(x, y, version, border, adjusted_matrix_size):
     """Check if the (x, y) position corresponds to an alignment pattern."""
-    positions = get_alignment_positions(version, border)
+    positions = get_alignment_positions(version)
     for px in positions:
         for py in positions:
             # Skip the finder pattern areas
