@@ -2499,7 +2499,7 @@
         <mxCell id="eU5BEzsS6_q34UClM6E8-86" value="$$\delta_{cs tk}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="560" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eU5BEzsS6_q34UClM6E8-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-2">
+        <mxCell id="eU5BEzsS6_q34UClM6E8-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-2" target="eU5BEzsS6_q34UClM6E8-92">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1085" y="567.5" as="sourcePoint" />
             <mxPoint x="1320" y="340" as="targetPoint" />
@@ -2511,8 +2511,8 @@
             <mxPoint x="1040" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eU5BEzsS6_q34UClM6E8-92" value="VTOL&lt;div&gt;A/F&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="240" width="90" height="190" as="geometry" />
+        <mxCell id="eU5BEzsS6_q34UClM6E8-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=light-dark(#ffffff, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1276" y="244" width="90" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
