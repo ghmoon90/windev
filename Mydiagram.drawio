@@ -2523,11 +2523,11 @@
         <mxCell id="eU5BEzsS6_q34UClM6E8-95" value="$$\delta_{r} \delta_{p} \delta_{y}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eU5BEzsS6_q34UClM6E8-96" value="$$T_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="125" y="305" width="100" height="40" as="geometry" />
+        <mxCell id="eU5BEzsS6_q34UClM6E8-96" value="$$\delta T_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="95" y="305" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eU5BEzsS6_q34UClM6E8-97" value="$$T_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="125" y="650" width="100" height="40" as="geometry" />
+        <mxCell id="eU5BEzsS6_q34UClM6E8-97" value="$$\delta T_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="95" y="650" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
