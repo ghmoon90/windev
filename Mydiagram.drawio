@@ -2240,7 +2240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xLuhTVBQS-kj0Zegs9Nl" name="Architecture_VTOL_CLAW">
-    <mxGraphModel dx="2072" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2138" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2529,17 +2529,13 @@
         <mxCell id="eU5BEzsS6_q34UClM6E8-97" value="$$\delta T_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="95" y="650" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-98" target="eU5BEzsS6_q34UClM6E8-106">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6j0-5rgJW-FC-8w1PLS6-4" target="eU5BEzsS6_q34UClM6E8-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="1220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="1124" />
-              <mxPoint x="780" y="1240" />
-              <mxPoint x="390" y="1240" />
-            </Array>
+            <mxPoint x="760" y="1140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eU5BEzsS6_q34UClM6E8-98" value="Proprotor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="eU5BEzsS6_q34UClM6E8-98" value="Rotor&amp;nbsp;&lt;div&gt;(Prop/Lift)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="620" y="1034" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eU5BEzsS6_q34UClM6E8-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1" parent="1" source="eU5BEzsS6_q34UClM6E8-100" edge="1">
@@ -2570,82 +2566,98 @@
         <mxCell id="eU5BEzsS6_q34UClM6E8-106" value="Inverter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350" y="1154" width="80" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-2" value="EPU&amp;nbsp;&lt;div&gt;Zonal&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-2" value="EPU&amp;nbsp;&lt;div&gt;Zonal&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="190" y="1046.25" width="110" height="155.5" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontStyle=1;exitX=1.005;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X47fn4rfXFnPVPpuTavi-2" target="eU5BEzsS6_q34UClM6E8-106">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontStyle=1;exitX=1.005;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="X47fn4rfXFnPVPpuTavi-2" target="eU5BEzsS6_q34UClM6E8-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="1186" as="sourcePoint" />
             <mxPoint x="475" y="1185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;exitX=0.999;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X47fn4rfXFnPVPpuTavi-2" target="eU5BEzsS6_q34UClM6E8-104">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;exitX=0.999;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="X47fn4rfXFnPVPpuTavi-2" target="eU5BEzsS6_q34UClM6E8-104" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="1080" as="sourcePoint" />
             <mxPoint x="340" y="1079.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-7" value="$$\delta_c$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-7" value="$$\delta_c$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="285" y="1049" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-8" value="$$\omega_c$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1150" width="60" height="30" as="geometry" />
+        <mxCell id="X47fn4rfXFnPVPpuTavi-8" value="$$\omega_c (Q_c)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1124" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;entryX=0;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="X47fn4rfXFnPVPpuTavi-2">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;entryX=0;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="X47fn4rfXFnPVPpuTavi-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="1280" as="targetPoint" />
             <mxPoint x="120" y="1130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-10" value="$$T_c, \hat{J}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-10" value="$$T_c, \hat{J}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="120" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-12" value="$$\omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="646" y="1240" width="60" height="30" as="geometry" />
+        <mxCell id="X47fn4rfXFnPVPpuTavi-12" value="$$\omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="384" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-13" value="$$T$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-13" value="$$T$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="760" y="1064" width="60" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-15" value="$$T=\dfrac{C_T(\delta,\omega,J)}{4\pi^2} \rho \omega^2 D^4$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-15" value="$$T=\dfrac{C_T(\delta,\omega,J)}{4\pi^2} \rho \omega^2 D^4$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="285" y="1320" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-16" value="$$J=\dfrac{Vn}{D}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-16" value="$$J=\dfrac{Vn}{D}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="285" y="1380" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-17" value="$$P_{mech}=\dfrac{C_P(\delta,\omega,J)}{8\pi^3} \rho \omega^3 D^5$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-17" value="$$P_{mech}=\dfrac{C_P(\delta,\omega,J)}{8\pi^3} \rho \omega^3 D^5$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="580" y="1320" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-18" value="$$P_{elec}=P(\omega)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-18" value="$$P_{elec}=P(\omega)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="580" y="1380" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.169;exitDx=0;exitDy=0;fontSize=18;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=1;exitPerimeter=0;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-98">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.169;exitDx=0;exitDy=0;fontSize=18;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=1;exitPerimeter=0;" parent="1" source="eU5BEzsS6_q34UClM6E8-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="813" y="1063.66" as="targetPoint" />
             <mxPoint x="760" y="1063.66" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-98" target="X47fn4rfXFnPVPpuTavi-2">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6j0-5rgJW-FC-8w1PLS6-4" target="X47fn4rfXFnPVPpuTavi-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="1179.97" as="sourcePoint" />
             <mxPoint x="260" y="1251.97" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="1124" />
-              <mxPoint x="780" y="1240" />
-              <mxPoint x="245" y="1240" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;" edge="1" parent="1" target="eU5BEzsS6_q34UClM6E8-98">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;" parent="1" target="eU5BEzsS6_q34UClM6E8-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655" y="990.0000000000001" as="targetPoint" />
             <mxPoint x="600" y="1000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-22" value="$$J$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-22" value="$$J$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="616" y="970" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X47fn4rfXFnPVPpuTavi-23" value="$$P_{elec}=P(\omega)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="X47fn4rfXFnPVPpuTavi-23" value="$$I\dot\omega= Q_c -Q_L - \omega \times I \omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="527" y="1500" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6j0-5rgJW-FC-8w1PLS6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontStyle=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-98" target="eU5BEzsS6_q34UClM6E8-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1214" as="targetPoint" />
+            <mxPoint x="562" y="1214" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6j0-5rgJW-FC-8w1PLS6-2" value="$$Q_L$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="527" y="1201.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6j0-5rgJW-FC-8w1PLS6-3" value="$$ Q_c$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6j0-5rgJW-FC-8w1PLS6-4" value="Tachometer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="1250" width="115" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6j0-5rgJW-FC-8w1PLS6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eU5BEzsS6_q34UClM6E8-98" target="6j0-5rgJW-FC-8w1PLS6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1165" y="1259.25" as="sourcePoint" />
+            <mxPoint x="790" y="1190.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
