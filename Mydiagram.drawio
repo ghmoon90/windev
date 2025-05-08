@@ -2240,7 +2240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xLuhTVBQS-kj0Zegs9Nl" name="Architecture_VTOL_CLAW">
-    <mxGraphModel dx="2064" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2282" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2921,7 +2921,7 @@
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-41" value="" style="curved=1;endArrow=none;html=1;rounded=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=#FF0E00;flowAnimation=0;startFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="738" y="2695" as="sourcePoint" />
+            <mxPoint x="742" y="2709" as="sourcePoint" />
             <mxPoint x="688" y="2729" as="targetPoint" />
             <Array as="points">
               <mxPoint x="724" y="2559" />
@@ -2950,25 +2950,25 @@
           <mxGeometry x="2288" y="3654" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-65" value="$$\delta_{c2}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="742" y="2741" width="101" height="26" as="geometry" />
+          <mxGeometry x="737" y="2701" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-66" value="$$\delta_{c3}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="774" y="2739" width="101" height="26" as="geometry" />
+          <mxGeometry x="773" y="2683" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-67" value="$$\delta_{c4}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="826" y="2739" width="101" height="26" as="geometry" />
+          <mxGeometry x="816.5" y="2683" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-68" value="$$\delta_{c5}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="875" y="2739" width="101" height="26" as="geometry" />
+          <mxGeometry x="869" y="2683" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-69" value="$$\delta_{c6}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="944" y="2739" width="101" height="26" as="geometry" />
+          <mxGeometry x="939" y="2704" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-71" value="$$\delta_{c1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="694" y="2741" width="101" height="26" as="geometry" />
+          <mxGeometry x="696" y="2709" width="101" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XaQfJUJ_SzvZjO6NSwbz-72" value="$$\eta_p =J\dfrac{C_T}{C_P}=\dfrac{TV}{P_{shaft}} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="663" y="2836" width="307" height="26" as="geometry" />
+        <mxCell id="XaQfJUJ_SzvZjO6NSwbz-72" value="$$\eta_p =J\dfrac{C_T}{C_P}=\dfrac{TV_{\infty}}{P_{s}} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="654" y="2836" width="327" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XaQfJUJ_SzvZjO6NSwbz-79" value="" style="curved=1;endArrow=none;html=1;rounded=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=#FF0E00;flowAnimation=0;startFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
