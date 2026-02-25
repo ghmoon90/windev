@@ -11,14 +11,16 @@
 - Senior Researcher, Hyundai Motor Company, 1 Jan 2020 - present </br>
 
   ***R&R at Hyundai Motor Company***
-  - Designing flight controller for eVTOL aircraft system
-  - Engineering on Guidance, Navigation and Control
-  - Research on detection and avoid tech 
-  - Organizing business proposal  
-  - Scanning novel technology  
-  - Aircraft SW Certification (DO 178C, DO 331)
-  - Advanced Flight Simulator for Intelligent System, Detection and avoid 
-  - Pilot Training Flight Simulator, Modeling and Simulation (M&S) (FAA Part 60)
+  - Designed flight controller for eVTOL aircraft system
+  - focused on Guidance, Navigation and Control
+  - conducted research on detection and avoid technology
+  - organizing business proposal  
+  - scanning novel technology  
+  - aircraft SW Certification (DO 178C, DO 331)
+  - advanced flight simulator for intelligent system, detection and avoid 
+  - pilot training flight simulator, modeling and simulation (M&S) (FAA Part 60)
+  - Designed the power distribution unit of hydrogen fuel cell power for aviation, especially energy management subdomain
+  - MAB guidline compliance check, and DO178C compliance check 
 
 ## Programming Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc., LLM based coding, work automation 
