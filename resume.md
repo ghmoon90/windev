@@ -20,7 +20,8 @@
   - advanced flight simulator for intelligent system, detection and avoid 
   - pilot training flight simulator, modeling and simulation (M&S) (FAA Part 60)
   - Designed the power distribution unit of hydrogen fuel cell power for aviation, especially energy management subdomain
-  - MAB guidline compliance check, and DO178C compliance check 
+  - MAB guidline compliance check, and DO178C compliance check
+  - PDU software requirement editing
 
 ## Programming Skill Set
 - Prompt Engineering - Chat GPT, MS copilot etc., LLM based coding, work automation 
