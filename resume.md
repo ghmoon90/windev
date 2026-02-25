@@ -127,7 +127,7 @@
 ###	Korean (KSAS) : 
 - KSAS lifetime member (2020~) </br>
 - KSAS delegate (2024~2025)
-
+- KSAS delegate (2025~2026)
 
 ### VERTICAL FLIGHT SOCIETY (VFS)
 - VFS member (2024, no.32962)
