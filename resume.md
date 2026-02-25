@@ -141,7 +141,7 @@
 - ghmoon090@gmail.com </br>
 - ghmoon90@hyundai.com
 
-### Sns
+### S.N.S.
 - [KakaoTalk](http://qr.kakao.com/talk/sON8CctTfctEJ_9tsBfULXpQNbM-)
 <img src="/img/IMG_6162.jpeg" height="400" />
 
